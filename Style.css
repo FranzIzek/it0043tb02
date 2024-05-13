@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Bebas+Neue&family=Lilita+One&display=swap');
+
+body {
+    background-image: url(https://t3.ftcdn.net/jpg/03/19/67/24/360_F_319672457_RgWdAgsS2MzHQRvU5jJWvpyCDwIYr8O9.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+
+
+h1 {
+    font-family: Abril Fatface;
+    font-size: 80px;
+    color: rgb(7, 160, 221);
+}
+
+h2 {
+    font-size: 45px;
+    color: red;
+}
+
+p {
+    font-size: 25px;
+    margin-left: 10%;
+    margin-right: 10%;
+    Bebas Neue;
+    20px;
+    color: black;
+}
+
+.three {
+    margin-left: 75%;
+}
+
+.one {
+    margin-top: 10%;
+}
+
+.Date{
+    color: blue;
+}
