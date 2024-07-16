@@ -805,7 +805,7 @@ section p {
     }
 
     .box-text {
-        font-size: 8px;
+        font-size: 7.5px;
     }
 
     .notesinfo{
@@ -869,7 +869,7 @@ section p {
 
 @media (max-width: 400px) {
     .box-text {
-        font-size: 6.3px;
+        font-size: 5.8px;
     }
     
     .notesinfo{
